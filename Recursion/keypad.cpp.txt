@@ -1,0 +1,67 @@
+#include<iostream>
+#include<string>
+#include<vector>
+
+using namespace std;
+
+string codes[10]={
+".",
+"abc",
+"def",
+"ghi",
+"jklm",
+"no",
+"pqrs",
+"tu",
+"vwxy",
+"z"};
+
+vector<string> kp(string s)
+{
+
+if(s.size()==0)
+{
+    vector<string> p;
+    p.push_back("");
+    return p;
+}
+
+char ch=s[0];
+int n=ch-'0';
+string ros=s.substr(1,s.size());
+
+vector<string> l=kp(ros);
+vector<string> ml;
+for(int i=0;i<codes[n].size();i++)
+{
+  for(int j=0;j<l.size();j++)
+  {string f=l[j];
+ml.push_back(codes[n][i]+f);
+  }
+
+}
+
+return ml;
+
+
+}
+
+int main()
+{
+
+    string s;
+    cin>>s;
+
+    vector<string> ans=kp(s);
+    int c=0;
+
+    for(int i=0;i<ans.size();i++)
+    {
+        cout<<ans[i]<<endl;
+        c++;
+    }
+    
+
+cout<<c;
+
+}
