@@ -1,11 +1,15 @@
-# DSA-Problem-Solutions 
+![Hacktoberfest 2020](https://hacktoberfest.digitalocean.com/assets/HF-full-logo-b05d5eb32b3f3ecc9b2240526104cf4da3187b8b61963dd9042fdc2536e4a76c.svg)
 
-![Hacktoberfest 2020](https://embed-fastly.wistia.com/deliveries/49bd387c40e2c5aada92abdf973bc46d.webp?image_crop_resized=960x540)
+
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/saksham1298agarwal%40gmail.com)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/SakshamAgrwl/GFG-DSA-Problem-Solutions)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/SakshamAgrwl/GFG-DSA-Problem-Solutions/issues)
+
+
+# DSA-Problem-Solutions [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Algorithms%20written%20in%20different%20programing%20languages&url=https://github.com/SakshamAgrwl/GFG-DSA-Problem-Solutions&via=algorithms&hashtags=algorithms,datastructures,python,java,c,cpp,php,javascript)
 
 
 # 🎃 HacktoberFest Starter Project 🎃
-
-
 
 Use this project to make your first contribution to an open source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!
 
@@ -47,8 +51,8 @@ git push origin branch-name
 * Wait for your PR review and merge approval!
 
  **Show some ❤️**
-    - Consider leaving a ⭐ [here](https://github.com/SakshamAgrwl/GFG-DSA-Problem-Solutions/).
-    - Follow @SakshamAgrwl for more updates.
+ - Consider leaving a ⭐ [here](https://github.com/SakshamAgrwl/GFG-DSA-Problem-Solutions/).
+ - Follow @SakshamAgrwl for more updates.
     
  #### Say Hi on [Linkedin](https://www.linkedin.com/in/saksham-agarwal-1286a09m/)! 👋
 
