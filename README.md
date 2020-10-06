@@ -1,11 +1,11 @@
-<h1> DSA-Problem-Solutions </h1>
-
 ![Hacktoberfest 2020](https://hacktoberfest.digitalocean.com/assets/HF-full-logo-b05d5eb32b3f3ecc9b2240526104cf4da3187b8b61963dd9042fdc2536e4a76c.svg)
 
 
-# 🎃 HacktoberFest Starter Project 🎃
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/saksham1298agarwal%40gmail.com)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/SakshamAgrwl/GFG-DSA-Problem-Solutions/issues)
 
 
+# DSA-Problem-Solutions [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Algorithms%20written%20in%20different%20programing%20languages&url=https://github.com/SakshamAgrwl/GFG-DSA-Problem-Solutions&via=algorithms&hashtags=algorithms,datastructures,python,java,c,cpp,php,javascript)
 
 Use this project to make your first contribution to an open source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!
 
@@ -18,7 +18,7 @@ Here are some ways to contribute to this repository:
 
 * Build your favourite data structure and push our program in that data structure folder
 * If your data structure is found in repo then create a new folder and add your code in it
-* Feel free to open any issue in this repo and make sure your add hacktoberfest lablel to that issue
+* Feel free to open any issue in this repo and make sure your add hacktoberfest label to that issue
 
 ## Getting started
 * Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
@@ -47,9 +47,8 @@ git push origin branch-name
 * Wait for your PR review and merge approval!
 
  **Show some ❤️**
- 
-    - Consider leaving a ⭐ [here](https://github.com/SakshamAgrwl/GFG-DSA-Problem-Solutions/).
-    - Follow @SakshamAgrwl for more updates.
+ - Consider leaving a ⭐ [here](https://github.com/SakshamAgrwl/GFG-DSA-Problem-Solutions/).
+ - Follow @SakshamAgrwl for more updates.
     
  #### Say Hi on [Linkedin](https://www.linkedin.com/in/saksham-agarwal-1286a09m/)! 👋
 
@@ -68,3 +67,4 @@ Checkout this list for README examples - Awesome README [![Awesome](https://cdn.
 
 Github-Flavored Markdown [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
 GitHub license explained [https://choosealicense.com](https://choosealicense.com)
+
