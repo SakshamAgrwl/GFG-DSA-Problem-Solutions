@@ -8,9 +8,6 @@
 
 # DSA-Problem-Solutions [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Algorithms%20written%20in%20different%20programing%20languages&url=https://github.com/SakshamAgrwl/GFG-DSA-Problem-Solutions&via=algorithms&hashtags=algorithms,datastructures,python,java,c,cpp,php,javascript)
 
-
-# 🎃 HacktoberFest Starter Project 🎃
-
 Use this project to make your first contribution to an open source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!
 
 Celebrate [Hacktoberfest](https://hacktoberfest.digitalocean.com/) by getting involved in the open source community by completing some simple tasks in this project.
