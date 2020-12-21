@@ -1,0 +1,34 @@
+// { Driver Code Starts
+#include <bits/stdc++.h>
+using namespace std;
+
+ // } Driver Code Ends
+
+
+class Solution {
+  public:
+    int closestNumber(int N , int M) {
+        int y = M*(ceil((double)N/(double)M)),x = M*(floor((double)N/(double)M));
+        if(abs(N - y)> abs(N -x)){return x;}
+        else if(abs(N - y) < abs(N -x)){return y;}
+        else{
+            if(abs(y)>abs(x)){return y;}
+            else{return x;}
+        }
+    }
+};
+
+// { Driver Code Starts.
+int main() {
+    int t;
+    cin >> t;
+    while (t--) {
+        int N,M;
+        
+        cin>>N>>M;
+
+        Solution ob;
+        cout << ob.closestNumber(N,M) << endl;
+    }
+    return 0;
+}  // } Driver Code Ends
